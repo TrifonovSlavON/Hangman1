@@ -17,8 +17,8 @@ hangman
 Copyright 2017 Vyacheslav Trifonov. See [license] for details.
 
 [license]: LICENSE.txt
-[travis-url]: https://travis-ci.org/TrifonovSlavON/hangman
-[travis-badge]: https://travis-ci.org/TrifonovSlavON/hangman.svg?branch=master
-[coverage-image]: https://codecov.io/gh/TrifonovSlavON/hangman/branch/master/graph/badge.svg
-[coverage-url]: https://codecov.io/gh/TrifonovSlavON/hangman
+[travis-url]: https://travis-ci.org/TrifonovSlavON/Hangman1
+[travis-badge]: https://travis-ci.org/TrifonovSlavON/Hangman1.svg?branch=master
+[coverage-image]: https://codecov.io/gh/TrifonovSlavON/Hangman1/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/TrifonovSlavON/Hangman1
 [hangman]: https://en.wikipedia.org/wiki/Hangman_(game)
